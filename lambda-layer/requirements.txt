@@ -1,0 +1,5 @@
+pdfplumber
+deep-translator
+reportlab
+PyPDF2
+fpdf
